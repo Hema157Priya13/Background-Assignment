@@ -1,0 +1,14 @@
+Cooker - 
+Product in a kitchen used in meal preparation
+
+Bicycle - 
+Common mode of transportation with two wheels, pedals, and handlebars, used for commuting and recreational purposes
+
+Toaster -
+Kitchen appliance designed for toasting bread slices, commonly found in households for quick breakfast preparation
+
+Office Chair -
+Essential furniture piece commonly found in workspaces for providing comfortable seating during office hours
+
+Camping Tent - 
+Outdoor shelter typically used for camping or outdoor recreational activities, providing temporary accommodation in natural settings
