@@ -1,5 +1,11 @@
 # Background-Assignment
 
+How to execute code:
+* Open the background assignment.py file in Google Colab
+* Upload the examples folder in My drive of Google drive
+* Execute the code (run all cells)
+* Output is saved in My Drive of Google Colab
+
 I have done assignment in Google colab "background assignment.py" file
 
 Task 1: 
